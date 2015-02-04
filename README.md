@@ -1,5 +1,13 @@
 # vim-textobj-methodcall
 
+```
+Map[Integer]
+foo(1, 2, 3)
+    ~~ic~~~
+~~~~~ac~~~~~
+```
+
+
 ## Requirements
 
 * [vim-textobj-user](https://github.com/kana/vim-textobj-user)
